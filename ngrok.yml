@@ -1,0 +1,7 @@
+authtoken: 2HwUbFZ5kT55YBqqiZh5c7GERSS_W33SVQst7WcqmqRcSVY8
+version: 2
+tunnels:
+  twitch:
+    proto: http
+    addr: host.docker.internal:3200
+    domain: alien-boss-hawk.ngrok-free.app
